@@ -14,7 +14,7 @@ When you earn 2000 points, you will receive a virtual classic Carnival prize!
 
 
 ## Versions used:
-- [Unity  2017.2.0f3]
-- [GVR Unity SDK v1.70.0]
+- Unity  2017.2.0f3
+- GVR Unity SDK v1.70.0
 - TextMesh Pro v1.0.55.2017.1.0b12 (*provided*)
 
